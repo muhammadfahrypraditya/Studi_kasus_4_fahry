@@ -99,7 +99,7 @@ src="https://github.com/user-attachments/assets/18774793-7623-48bc-8298-78942374
     </td>
     <td width="50%">
       <p>
-        jika menginput nomor 5 program akan selesai dan break untuk berhenti program / mengakhiri program. namun  jika tidak meinput nomor 1-5 maka akan muncul output "pilihan tidak valid. silahkan pilih menu 1-5"
+        jika menginput nomor 5 program akan selesai dan break untuk berhenti program / mengakhiri program. namun  jika tidak meinput nomor 1-5 maka akan muncul output "pilihan tidak valid. silahkan pilih menu 1-5" dan dibawahnya print data setelah perubahan dengan print(produk)
       </p>
     </td>
   </tr>
